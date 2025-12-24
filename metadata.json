@@ -1,0 +1,5 @@
+{
+  "name": "Neural Cyber-VaR Dashboard",
+  "description": "A high-end quant-finance and cybersecurity risk management platform that uses AI-driven threat intelligence and Monte Carlo simulations to calculate real-time Cyber Value-at-Risk (VaR) for critical organizational assets, ensuring compliance with regulations like DORA.",
+  "requestFramePermissions": []
+}
